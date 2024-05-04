@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+
+
+
+<html>
+
+
+
+  <head>
+
+
+
+    <title>Twenty Hours</title>
+
+
+
+    <style>
+
+
+
+      /* Add some basic styling */
+
+
+
+      Body {
+
+
+
+        Font-family: Arial, sans-serif;
+
+
+
+      }
+
+
+
+      H1 {
+
+
+
+        Text-align: center;
+
+
+
+        Margin-top: 50px;
+
+
+
+      }
+
+
+
+      Form {
+
+
+
+        Width: 300px;
+
+
+
+        Margin: 50px auto;
+
+
+
+        Border: 1px solid #ddd;
+
+
+
+        Padding: 30px;
+
+
+
+        Box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+
+
+
+      }
+
+
+
+      Label {
+
+
+
+        Display: block;
+
+
+
+        Margin-bottom: 10px;
+
+
+
+      }
+
+
+
+      Input[type=”email”], input[type=”password”] {
+
+
+
+        Width: 100%;
+
+
+
+        Padding: 10px;
+
+
+
+        Margin-bottom: 20px;
+
+
+
+      }
+
+
+
+      Input[type=”submit”] {
+
+
+
+        Background-color: #4CAF50;
+
+
+
+        Color: white;
+
+
+
+        Padding: 10px 20px;
+
+
+
+        Border: none;
+
+
+
+        Cursor: pointer;
+
+
+
+      }
+
+
+
+      Input[type=”submit”]:hover {
+
+
+
+        Background-color: #45ª049;
+
+
+
+      }
+
+
+
+    </style>
+
+
+
+  </head>
+
+
+
+  <body>
+
+
+
+    <h1>TWENTY HOURS</h1>
+
+
+
+    <form>
+
+
+
+      <h2>Login</h2>
+
+
+
+      <label for=”email”>Email:</label>
+
+
+
+      <input type=”email” id=”email” name=”email”>
+
+
+
+      <label for=”password”>Password:</label>
+
+
+
+      <input type=”password” id=”password” name=”password”>
+
+
+
+      <input type=”submit” value=”Login”>
+
+
+
+      <h2>Register</h2>
+
+
+
+      <label for=”email”>Email:</label>
+
+
+
+      <input type=”email” id=”email” name=”email”>
+
+
+
+      <label for=”password”>Password:</label>
+
+
+
+      <input type=”password” id=”password” name=”password”>
+
+
+
+      <input type=”submit” value=”Register”>
+
+
+
+    </form>
+
+
+
+  </body>
+
+
+
+</html>
+
+
+
+
+
